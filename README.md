@@ -22,4 +22,9 @@ This project processes raw organizational employee records containing missing va
 * **Data Manipulation & Analysis:** Pandas, NumPy
 * **Database & Querying:** SQLite3, SQL
 
+├── EDA_SQLite_Employee_200.csv     # Raw dataset
+├── solution.py                     # Main analysis & SQLite pipeline script
+├── employees_final.csv             # Cleaned & transformed export
+└── README.md                       # Documentation
+
 ## Project Structure
