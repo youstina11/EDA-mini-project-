@@ -1,5 +1,9 @@
 # EDA Mini Project — Enhanced (Employee + Superstore)
 
+![EDA mini project ](./6DCF891F-5F4C-45DE-A642-0A4E3362D79F.png)
+
+
+
 Building an End-to-End Data Pipeline: Python EDA & SQLite Integration.
 
 This is an **enhanced version** of the original Employee EDA/SQLite mini-project.
